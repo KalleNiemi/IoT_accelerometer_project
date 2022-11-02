@@ -7,4 +7,6 @@ This is a school project that:
 - pulls data from the mysql database
 - approximates arduino orientation using Kmeans algorithm
 
+
+![Jotakuinkin tämmöstä](/kuvat/arduino_modules.svg)
 ***above steps are subject to change***
