@@ -1,0 +1,6 @@
+Mitkä ovat perinteiset SDLC-vaiheet?
+
+Mitä seuraavat termit/konseptit tarkoittavat: IDE, unit testing, repository, main/master branch, branch, pull request, merge, commit
+
+Mihin tarvitaan brancheja?
+
