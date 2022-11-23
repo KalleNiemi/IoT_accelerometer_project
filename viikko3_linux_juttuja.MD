@@ -8,6 +8,7 @@ Update: jahas, tehtävä oli päivittynyt joten mennäänpäs uudestaan:
 
 sudo tcpdump -n -i enp1s0 -v -w /tmp/kaappausnayte.pcap tcp port 80 #tänne taas tuo -v niin näki missä vaiheessa se ei enään nouse.
 Wiresharkki kuva scp:llä ladatusta uudesta tiedostosta:
+
 <img src="https://user-images.githubusercontent.com/117070282/203501081-e7710676-99c4-45ad-a695-3b7fe35ef110.png" width="400"/>
 
 Tässä meni 5.142136 millisekuntia yhteensä.
@@ -18,6 +19,7 @@ Entä server-kentässä?
 Apache/2.4.52 (Ubuntu)
 
 Sama uudestaan selaimella:
+
 <img src="https://user-images.githubusercontent.com/117070282/203500653-2b3fea7d-3d00-44a5-8b63-a756bd4a746f.png" width="400"/>
 
 Selain näytti ton php skriptin lataamisajaksi 95-130 ms
