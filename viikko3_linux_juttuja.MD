@@ -24,6 +24,13 @@ Sama uudestaan selaimella:
 
 Selain näytti ton php skriptin lataamisajaksi 95-130 ms
 
+Tee omalle kannettavalle TCP-asiakasohjelma Pythonilla, joka hakee, käsittelee ja tallentaa 172.20.241.9 -palvelimelta (HTTP-siirron yli) dataa omalle kannettavalle CSV-tiedostoksi. Käytä HTTP-yhteyteen suosiolla jotain valmista kirjastoa (koska HTTP on erittäin monimutkainen protokolla alkaa kirjoittamaan tyhjästä itse suoraan socketin päälle):
+
+Löytyy mainbranchista koodeista
+
+Tee uusi Python-skripti tietojen hakemiseksi, mutta nyt sellainen, joka hakee datat suoraan tietokannasta (172.20.241.9) MySQL-rajapinnan kautta:
+
+Läytyy mainbranchista koodeista. ***Tietokantapalvelimen tunnus pitää olla joko erillisenä ympäristömuuttujana tai erillisessä tiedostossa mikä on .gitignoressa (mieti miksi näin?)*** Tämä on nyt erillisessä tiedostossa, ja ei toki ole hyvä pistää mitään tietokannan salasanoja julkiseen internettiin vaikka kuinka olisi privaatti repo kyseessä.
 
 Määrittele Linux-palvelimeen salasanaton SSH-kirjautuminen ed25519-avaimella:
 
