@@ -23,3 +23,8 @@ Sama uudestaan selaimella:
 <img src="https://user-images.githubusercontent.com/117070282/203500653-2b3fea7d-3d00-44a5-8b63-a756bd4a746f.png" width="400"/>
 
 Selain näytti ton php skriptin lataamisajaksi 95-130 ms
+
+
+Määrittele Linux-palvelimeen salasanaton SSH-kirjautuminen ed25519-avaimella:
+
+<img src="https://user-images.githubusercontent.com/117070282/205432692-e53fad94-43fc-495f-9ce3-9ceb799c4155.png" width="400"/>
