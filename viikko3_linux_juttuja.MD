@@ -30,7 +30,13 @@ Löytyy mainbranchista koodeista
 
 Tee uusi Python-skripti tietojen hakemiseksi, mutta nyt sellainen, joka hakee datat suoraan tietokannasta (172.20.241.9) MySQL-rajapinnan kautta:
 
-Läytyy mainbranchista koodeista. ***Tietokantapalvelimen tunnus pitää olla joko erillisenä ympäristömuuttujana tai erillisessä tiedostossa mikä on .gitignoressa (mieti miksi näin?)*** Tämä on nyt erillisessä tiedostossa, ja ei toki ole hyvä pistää mitään tietokannan salasanoja julkiseen internettiin vaikka kuinka olisi privaatti repo kyseessä.
+Löytyy mainbranchista koodeista. ***Tietokantapalvelimen tunnus pitää olla joko erillisenä ympäristömuuttujana tai erillisessä tiedostossa mikä on .gitignoressa (mieti miksi näin?)*** Tämä on nyt erillisessä tiedostossa, ja ei toki ole hyvä pistää mitään tietokannan salasanoja julkiseen internettiin vaikka kuinka olisi privaatti repo kyseessä.
+
+Tallenna ja analysoi oman TCP-asiakasohjelman liikennettä Wiresharkilla ja:
+
+   Etsi liikenteestä siirrossa käytetyt TCP-lähde- ja kohdeportit: Lähdeportti = 58719 , kohdeportti = 80
+   Tutki MySQL-siirron hyötykuormaa ja etsi sieltä siirrettyä dataa: Noh payloadit vaikuttaa tulevan suurimmaksi osaksi 1425 tavun paketteina UDP protokollalla ja ne on kyllä sen verran kryptisiä että ei sieltä varsinaisesti mysql liittyvää infoa löydy. Etänä teen tätä nyt ja tosiaan on tuo OpenVPN päällä.
+    
 
 Määrittele Linux-palvelimeen salasanaton SSH-kirjautuminen ed25519-avaimella:
 
