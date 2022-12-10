@@ -41,3 +41,8 @@ Tallenna ja analysoi oman TCP-asiakasohjelman liikennettä Wiresharkilla ja:
 Määrittele Linux-palvelimeen salasanaton SSH-kirjautuminen ed25519-avaimella:
 
 <img src="https://user-images.githubusercontent.com/117070282/205432692-e53fad94-43fc-495f-9ce3-9ceb799c4155.png" width="400"/>
+
+Ota käyttöön Tailscale-palvelun ilmaisversio ja luo sillä yhteys oman kannettavan ja oman Linux-palvelimen välille.
+
+<img src="https://user-images.githubusercontent.com/117070282/206850536-00e7ec80-5cab-443b-a2d4-632d330cfd67.png" width="400"/>
+
