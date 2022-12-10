@@ -30,7 +30,7 @@
   
       http://172.20.241.77/jeejoojaa404erroria_tulee_###123agbaouanubna321###_tosin_n%C3%A4ytt%C3%A4%C3%A4_vaan_random_kissan
       
-      Thunderclient:
-      
-    <img src="https://user-images.githubusercontent.com/117070282/206853478-5aaf33db-d3ce-4843-9fe7-a8b55393016a.png" width=400/>
+  Thunderclient:
+  
+     ![kuva](https://user-images.githubusercontent.com/117070282/206853542-dac3d2f4-0b5c-46c5-80a7-5ef66bacfbf0.png)
 
