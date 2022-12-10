@@ -46,3 +46,10 @@ Ota käyttöön Tailscale-palvelun ilmaisversio ja luo sillä yhteys oman kannet
 
 <img src="https://user-images.githubusercontent.com/117070282/206850536-00e7ec80-5cab-443b-a2d4-632d330cfd67.png" width="400"/>
 
+Ansible:
+
+No kyllähän tämä komento menee läpi mutta joku vika tossa on vaikka tein sen hosts tiedoston:
+
+![kuva](https://user-images.githubusercontent.com/117070282/206855474-68f11306-f0c0-4ac3-a1e0-c01695463b5f.png)
+
+
