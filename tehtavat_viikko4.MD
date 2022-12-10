@@ -44,6 +44,9 @@
    
    ![kuva](https://user-images.githubusercontent.com/117070282/206854295-b62dd9a2-0988-40f0-8693-ed10eed03ea4.png)
 
+OpenALPR:
+
+![kuva](https://user-images.githubusercontent.com/117070282/206855202-5ac57df3-98fc-43d6-8858-47d18b1329c7.png)
 
 
 
