@@ -39,6 +39,11 @@
    parkkipaikat:
    
    ![kuva](https://user-images.githubusercontent.com/117070282/206853999-e7ff234c-d93a-4e43-900b-e9f6854c72f8.png)
+   
+   ![kuva](https://user-images.githubusercontent.com/117070282/206854211-80dd34a7-5490-44bc-883f-4d48ef77f093.png)
+   
+   ![kuva](https://user-images.githubusercontent.com/117070282/206854295-b62dd9a2-0988-40f0-8693-ed10eed03ea4.png)
+
 
 
 
