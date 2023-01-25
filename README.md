@@ -18,6 +18,3 @@ Arduino comparing sensordata to learned centerpoints:
 
 ![kuva](https://user-images.githubusercontent.com/117070282/207846082-e3b1b8f4-fdd6-406b-8ec8-cb001507be12.png)
 
-
-![Jotakuinkin tämmöstä](/kuvat/arduino_modules.svg)
-***above steps are subject to change***
