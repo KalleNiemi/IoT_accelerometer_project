@@ -101,7 +101,7 @@ for kierrokset in range(totalKierrokset):
     print("safetystop: ",safetyStop)
 
 
-print("Looppi räpellys tarvottu läpi!")
+print("Looppi läpi!")
 
 print("Confusion matrix:")
 print("ID: 1    2    3    4    5    6")
