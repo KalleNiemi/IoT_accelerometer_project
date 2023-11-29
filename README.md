@@ -12,7 +12,6 @@ This is a school project that:
 ![kuva](https://user-images.githubusercontent.com/117070282/207603069-66415806-9f78-49dc-a4c2-6562c315a719.png)
 
 
-![kuva](https://user-images.githubusercontent.com/117070282/207585318-f9e59be1-5c49-481e-8115-1f445c7e3de7.png)
 
 Arduino comparing sensordata to learned centerpoints:
 
